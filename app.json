@@ -1,14 +1,12 @@
 {
   "expo": {
-    "name": "RockPaperSnap",
-    "slug": "RockPaperSnap",
+    "name": "rps-game",
+    "slug": "rps-game",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "rockpapersnap",
-    "userInterfaceStyle": "automatic",
-    "ios": {
-      "icon": "./assets/expo.icon"
+    "splash": {
+      "image": "./assets/images/appIcon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
     },
     "android": {
       "adaptiveIcon": {
